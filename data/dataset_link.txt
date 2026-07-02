@@ -1,0 +1,3 @@
+dataset_link=https://www.kaggle.com/datasets/sehaj1104/student-mental-health-and-burnout-dataset
+
+Download the dataset and place it inside the data folder.
